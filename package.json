@@ -1,0 +1,38 @@
+{
+  "name": "nu-space-room",
+  "private": true,
+  "homepage": "/nu_space_fe",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@heroicons/react": "^2.1.1",
+    "@material-tailwind/react": "^2.1.9",
+    "@mui/icons-material": "^5.15.4",
+    "@mui/material": "^5.15.15",
+    "@reduxjs/toolkit": "^2.1.0",
+    "autoprefixer": "^10.0.1",
+    "bwip-js": "^4.5.0",
+    "dotenv": "^16.4.5",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.45",
+    "mqtt": "^5.8.1",
+    "next": "latest",
+    "react": "18.2.0",
+    "react-date-picker": "^11.0.0",
+    "react-datepicker": "^7.3.0",
+    "react-dom": "18.2.0",
+    "react-material-ui-form-validator": "^3.0.1",
+    "react-moment": "^1.1.3",
+    "react-redux": "^9.1.0",
+    "sweetalert2": "^11.12.3",
+    "tailwindcss": "^3.4.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
