@@ -14,7 +14,7 @@ export default function PageNotFound() {
 			</p>
 
 			<Link href="/" legacyBehavior>
-				<a className="font-secondary bg-branding-accent-primary-darker md:text-lg md:px-12 md:py-3 hover:bg-branding-accent-primary active:bg-branding-accent-primary-darker px-8 py-1 text-black rounded-lg text-blue-500">
+				<a className="font-secondary bg-branding-accent-primary-darker md:text-lg md:px-12 md:py-3 hover:bg-branding-accent-primary active:bg-branding-accent-primary-darker px-8 py-1 rounded-lg text-blue-500">
 					BACK TO HOME
 				</a>
 			</Link>

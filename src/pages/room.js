@@ -605,7 +605,7 @@ const Room = () => {
 						className="w-[300px] h-[300px] bg-white rounded-lg shadow-lg p-6 mt-10"
 					></canvas> */}
 					<img
-						src={`${process.env.NEXT_PUBLIC_BASE_PATH}/frame.png`}
+						src={`${process.env.NEXT_PUBLIC_BASE_PATH}/barcode.jpeg`}
 						className="w-[300px] h-[300px] bg-white rounded-lg shadow-lg mt-10"
 					/>
 					<p className="text-lg font-semibold text-white border-2 border-white px-4 py-2 rounded-md">
